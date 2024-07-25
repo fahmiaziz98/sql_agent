@@ -1,0 +1,122 @@
+{
+    "FIND_AIRCRAFT_BY_RANGE": [
+      "Which aircraft can I take for a non-stop flight from New York to Tokyo?",
+      "What's the best plane for my long-haul flight to Australia?",
+      "Can you recommend an aircraft for my international business trip?",
+      "I need a plane with at least 7000 km range, what are my options?"
+    ],
+    "LOCATE_NEAREST_AIRPORT": [
+      "What's the closest airport to downtown Atlanta?",
+      "I'm in Beijing, which airport should I use?",
+      "Can you tell me the nearest airport to Dubai Mall?",
+      "What airport options do I have near Los Angeles?"
+    ],
+    "CHECK_TIMEZONE_DIFFERENCE": [
+      "What's the time difference between Atlanta and Beijing?",
+      "How many hours ahead is Dubai compared to Los Angeles?",
+      "When it's noon in Tokyo, what time is it in New York?",
+      "I'm flying from LAX to HND, how should I adjust my watch?"
+    ],
+    "COMPARE_AIRCRAFT_MODELS": [
+      "What's the difference in passenger capacity between Boeing 777-300 and Airbus A321-200?",
+      "Which is more fuel-efficient for short flights, Airbus A320-200 or Sukhoi Superjet-100?",
+      "Can you compare the comfort levels of Boeing 767-300 and Airbus A321-200?",
+      "For a family trip, should I choose a flight with Boeing 777-300 or Airbus A320-200?"
+    ],
+    "CHECK_SEAT_ASSIGNMENT": [
+      "What's my seat number for flight 30625?",
+      "Can you tell me which seat I've been assigned on my upcoming flight?",
+      "I forgot my seat number, how can I find it using my ticket number?",
+      "Is it possible to see the seat assignments for all passengers on a specific flight?"
+    ],
+    "RETRIEVE_BOOKING_DETAILS": [
+      "I need to check the total amount for my booking with reference 00000F.",
+      "When was the booking with reference 000012 made?",
+      "Can you give me details about the most expensive booking in the system?",
+      "What's the average booking amount for reservations made in April 2024?"
+    ],
+    "FIND_FLIGHT_INFORMATION": [
+      "How many passengers are booked on flight 30625?",
+      "What's the date of the flight with ID 30625?",
+      "Can you list all the flights scheduled for March 20, 2024?",
+      "I need to know which flights have seats still available in the next week."
+    ],
+    "ANALYZE_BOOKING_TRENDS": [
+      "Which month had the highest total booking amount?",
+      "What's the trend of booking amounts from March to April 2024?",
+      "Can you show me the distribution of booking amounts across different price ranges?",
+      "How does the average booking amount compare between weekdays and weekends?"
+    ],
+    "CHECK_FLIGHT_STATUS": [
+      "What's the current status of flight QR0051?",
+      "Has flight MU0066 departed on schedule?",
+      "Can you tell me if there are any delays for the flight from SHA to AMS?",
+      "What's the estimated arrival time for flight LX0136?"
+    ],
+    "FIND_FLIGHT_ROUTES": [
+      "Are there any direct flights from BSL to BKK?",
+      "What are the available flights from SHA to CUN?",
+      "Can you list all flights departing from OSL on May 28, 2024?",
+      "I need to know the flight options from Oslo to Prague."
+    ],
+    "INQUIRE_SEAT_AVAILABILITY": [
+      "Are there any business class seats available on the Airbus A319?",
+      "What types of seats are available on aircraft code 763?",
+      "Can you tell me if seat 2A is a window seat on the A319?",
+      "How many business class seats are there on the SU9 aircraft?"
+    ],
+    "ANALYZE_FLIGHT_PATTERNS": [
+      "Which route has the most frequent flights in our database?",
+      "What's the average flight duration for trips between SHA and AMS?",
+      "Can you show me the busiest departure times from OSL?",
+      "How does the number of scheduled flights compare between different days of the week?"
+    ],
+    "CHECK_TICKET_DETAILS": [
+        "What's the fare condition for ticket number 0060005432159776?",
+        "How much did the ticket 0060005435212351 cost?",
+        "Can you tell me which flight the ticket 0060005435212386 is for?",
+        "Are there any Economy class tickets for flight 30625?"
+    ],
+    "RETRIEVE_PASSENGER_INFO": [
+        "What's the booking reference for passenger with ID 8149 604011?",
+        "How many tickets are booked under the reference 06B046?",
+        "Can you give me the passenger ID for ticket number 9880005432000989?",
+        "Which passengers are traveling together under the same booking reference?"
+    ],
+    "FIND_CAR_RENTAL_OPTIONS": [
+        "What car rental options are available in Basel?",
+        "Can I book a luxury car from Avis in Basel from April 10 to April 20?",
+        "What's the price tier for Hertz rentals in Zurich?",
+        "Are there any SUV rentals available in Bern around April 20?"
+    ],
+    "ANALYZE_BOOKING_PATTERNS": [
+        "What's the most common fare condition for tickets on flight 30625?",
+        "How does the average ticket price vary between different fare conditions?",
+        "Which car rental company has the most bookings in our database?",
+        "Can you show me the trend of car rental bookings across different locations?"
+    ],
+    "FIND_HOTEL_OPTIONS": [
+      "What luxury hotels are available in Basel?",
+      "Can I book a room at the Marriott Zurich from April 14 to April 21?",
+      "What's the price tier for Radisson Blu in Lucerne?",
+      "Are there any upper midscale hotels available in Bern?"
+    ],
+    "CHECK_HOTEL_AVAILABILITY": [
+      "Is the Hilton Basel available for booking on April 22?",
+      "What's the checkout date for the reservation at Hyatt Regency Basel?",
+      "Are there any hotels in Zurich with availability in mid-April?",
+      "Can you tell me if Best Western Bern is fully booked for April?"
+    ],
+    "GET_TRIP_RECOMMENDATIONS": [
+      "What are some historical landmarks to visit in Basel?",
+      "Can you recommend any art museums in Basel?",
+      "What are the must-see attractions in Zurich's Old Town?",
+      "Are there any wildlife-related activities in Bern?"
+    ],
+    "PLAN_ITINERARY": [
+      "Can you suggest a day trip in Lucerne that includes the Chapel Bridge?",
+      "What's a good itinerary for art lovers visiting Basel?",
+      "How can I combine a visit to the Bern Bear Park with other attractions?",
+      "What's the best way to experience both historical and modern attractions in Zurich?"
+    ]
+  }

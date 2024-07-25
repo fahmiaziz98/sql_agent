@@ -1,0 +1,91 @@
+prompt,intent
+Need all the bookings from 10th to 15th October 2023.,RETRIEVE_RESERVATIONS
+Could you retrieve reservations for mid-October 2023?,RETRIEVE_RESERVATIONS
+Let’s see all the October reservations from 10th to 15th.,RETRIEVE_RESERVATIONS
+Any reservations from 10/10/2023 to 15/10/2023?,RETRIEVE_RESERVATIONS
+I’m looking for bookings between the second and third weeks of October 2023.,RETRIEVE_RESERVATIONS
+"In 2023, which month witnessed the highest number of departures?",FIND_PEAK_DEPARTURE_MONTHS
+Can you identify the month with the most flight takeoffs in 2023?,FIND_PEAK_DEPARTURE_MONTHS
+Show me the month having the highest flight departures in 2023.,FIND_PEAK_DEPARTURE_MONTHS
+What month in 2023 was the busiest in terms of departures?,FIND_PEAK_DEPARTURE_MONTHS
+Which month in 2023 saw the most number of departures?,FIND_PEAK_DEPARTURE_MONTHS
+Which aircraft can I take for a non-stop flight from New York to Tokyo?,FIND_AIRCRAFT_BY_RANGE
+What's the best plane for my long-haul flight to Australia?,FIND_AIRCRAFT_BY_RANGE
+Can you recommend an aircraft for my international business trip?,FIND_AIRCRAFT_BY_RANGE
+"I need a plane with at least 7000 km range, what are my options?",FIND_AIRCRAFT_BY_RANGE
+What's the closest airport to downtown Atlanta?,LOCATE_NEAREST_AIRPORT
+"I'm in Beijing, which airport should I use?",LOCATE_NEAREST_AIRPORT
+Can you tell me the nearest airport to Dubai Mall?,LOCATE_NEAREST_AIRPORT
+What airport options do I have near Los Angeles?,LOCATE_NEAREST_AIRPORT
+What's the time difference between Atlanta and Beijing?,CHECK_TIMEZONE_DIFFERENCE
+How many hours ahead is Dubai compared to Los Angeles?,CHECK_TIMEZONE_DIFFERENCE
+"When it's noon in Tokyo, what time is it in New York?",CHECK_TIMEZONE_DIFFERENCE
+"I'm flying from LAX to HND, how should I adjust my watch?",CHECK_TIMEZONE_DIFFERENCE
+What's the difference in passenger capacity between Boeing 777-300 and Airbus A321-200?,COMPARE_AIRCRAFT_MODELS
+"Which is more fuel-efficient for short flights, Airbus A320-200 or Sukhoi Superjet-100?",COMPARE_AIRCRAFT_MODELS
+Can you compare the comfort levels of Boeing 767-300 and Airbus A321-200?,COMPARE_AIRCRAFT_MODELS
+"For a family trip, should I choose a flight with Boeing 777-300 or Airbus A320-200?",COMPARE_AIRCRAFT_MODELS
+What's my seat number for flight 30625?,CHECK_SEAT_ASSIGNMENT
+Can you tell me which seat I've been assigned on my upcoming flight?,CHECK_SEAT_ASSIGNMENT
+"I forgot my seat number, how can I find it using my ticket number?",CHECK_SEAT_ASSIGNMENT
+Is it possible to see the seat assignments for all passengers on a specific flight?,CHECK_SEAT_ASSIGNMENT
+I need to check the total amount for my booking with reference 00000F.,RETRIEVE_BOOKING_DETAILS
+When was the booking with reference 000012 made?,RETRIEVE_BOOKING_DETAILS
+Can you give me details about the most expensive booking in the system?,RETRIEVE_BOOKING_DETAILS
+What's the average booking amount for reservations made in April 2024?,RETRIEVE_BOOKING_DETAILS
+How many passengers are booked on flight 30625?,FIND_FLIGHT_INFORMATION
+What's the date of the flight with ID 30625?,FIND_FLIGHT_INFORMATION
+"Can you list all the flights scheduled for March 20, 2024?",FIND_FLIGHT_INFORMATION
+I need to know which flights have seats still available in the next week.,FIND_FLIGHT_INFORMATION
+Which month had the highest total booking amount?,ANALYZE_BOOKING_TRENDS
+What's the trend of booking amounts from March to April 2024?,ANALYZE_BOOKING_TRENDS
+Can you show me the distribution of booking amounts across different price ranges?,ANALYZE_BOOKING_TRENDS
+How does the average booking amount compare between weekdays and weekends?,ANALYZE_BOOKING_TRENDS
+What's the current status of flight QR0051?,CHECK_FLIGHT_STATUS
+Has flight MU0066 departed on schedule?,CHECK_FLIGHT_STATUS
+Can you tell me if there are any delays for the flight from SHA to AMS?,CHECK_FLIGHT_STATUS
+What's the estimated arrival time for flight LX0136?,CHECK_FLIGHT_STATUS
+Are there any direct flights from BSL to BKK?,FIND_FLIGHT_ROUTES
+What are the available flights from SHA to CUN?,FIND_FLIGHT_ROUTES
+"Can you list all flights departing from OSL on May 28, 2024?",FIND_FLIGHT_ROUTES
+I need to know the flight options from Oslo to Prague.,FIND_FLIGHT_ROUTES
+Are there any business class seats available on the Airbus A319?,INQUIRE_SEAT_AVAILABILITY
+What types of seats are available on aircraft code 763?,INQUIRE_SEAT_AVAILABILITY
+Can you tell me if seat 2A is a window seat on the A319?,INQUIRE_SEAT_AVAILABILITY
+How many business class seats are there on the SU9 aircraft?,INQUIRE_SEAT_AVAILABILITY
+Which route has the most frequent flights in our database?,ANALYZE_FLIGHT_PATTERNS
+What's the average flight duration for trips between SHA and AMS?,ANALYZE_FLIGHT_PATTERNS
+Can you show me the busiest departure times from OSL?,ANALYZE_FLIGHT_PATTERNS
+How does the number of scheduled flights compare between different days of the week?,ANALYZE_FLIGHT_PATTERNS
+What's the fare condition for ticket number 0060005432159776?,CHECK_TICKET_DETAILS
+How much did the ticket 0060005435212351 cost?,CHECK_TICKET_DETAILS
+Can you tell me which flight the ticket 0060005435212386 is for?,CHECK_TICKET_DETAILS
+Are there any Economy class tickets for flight 30625?,CHECK_TICKET_DETAILS
+What's the booking reference for passenger with ID 8149 604011?,RETRIEVE_PASSENGER_INFO
+How many tickets are booked under the reference 06B046?,RETRIEVE_PASSENGER_INFO
+Can you give me the passenger ID for ticket number 9880005432000989?,RETRIEVE_PASSENGER_INFO
+Which passengers are traveling together under the same booking reference?,RETRIEVE_PASSENGER_INFO
+What car rental options are available in Basel?,FIND_CAR_RENTAL_OPTIONS
+Can I book a luxury car from Avis in Basel from April 10 to April 20?,FIND_CAR_RENTAL_OPTIONS
+What's the price tier for Hertz rentals in Zurich?,FIND_CAR_RENTAL_OPTIONS
+Are there any SUV rentals available in Bern around April 20?,FIND_CAR_RENTAL_OPTIONS
+What's the most common fare condition for tickets on flight 30625?,ANALYZE_BOOKING_PATTERNS
+How does the average ticket price vary between different fare conditions?,ANALYZE_BOOKING_PATTERNS
+Which car rental company has the most bookings in our database?,ANALYZE_BOOKING_PATTERNS
+Can you show me the trend of car rental bookings across different locations?,ANALYZE_BOOKING_PATTERNS
+What luxury hotels are available in Basel?,FIND_HOTEL_OPTIONS
+Can I book a room at the Marriott Zurich from April 14 to April 21?,FIND_HOTEL_OPTIONS
+What's the price tier for Radisson Blu in Lucerne?,FIND_HOTEL_OPTIONS
+Are there any upper midscale hotels available in Bern?,FIND_HOTEL_OPTIONS
+Is the Hilton Basel available for booking on April 22?,CHECK_HOTEL_AVAILABILITY
+What's the checkout date for the reservation at Hyatt Regency Basel?,CHECK_HOTEL_AVAILABILITY
+Are there any hotels in Zurich with availability in mid-April?,CHECK_HOTEL_AVAILABILITY
+Can you tell me if Best Western Bern is fully booked for April?,CHECK_HOTEL_AVAILABILITY
+What are some historical landmarks to visit in Basel?,GET_TRIP_RECOMMENDATIONS
+Can you recommend any art museums in Basel?,GET_TRIP_RECOMMENDATIONS
+What are the must-see attractions in Zurich's Old Town?,GET_TRIP_RECOMMENDATIONS
+Are there any wildlife-related activities in Bern?,GET_TRIP_RECOMMENDATIONS
+Can you suggest a day trip in Lucerne that includes the Chapel Bridge?,PLAN_ITINERARY
+What's a good itinerary for art lovers visiting Basel?,PLAN_ITINERARY
+How can I combine a visit to the Bern Bear Park with other attractions?,PLAN_ITINERARY
+What's the best way to experience both historical and modern attractions in Zurich?,PLAN_ITINERARY
