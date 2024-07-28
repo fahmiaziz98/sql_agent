@@ -12,6 +12,7 @@
 
 ### Limitations:
 
+- Expensive cost
 - Expansion to include new scenarios requires manual updates to the data used for few-shot prompting.
 - Lacks the flexibility to automatically address novel query scenarios without manual intervention.
 
